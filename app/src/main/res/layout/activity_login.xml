@@ -39,7 +39,7 @@
         android:ems="10"
         android:inputType="textPassword"
         android:hint="Username"
-        android:drawableLeft="@drawable/outline_frame_person_24"/>
+        />
 
     <EditText
         android:id="@+id/editTextPassword"
